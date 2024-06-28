@@ -320,6 +320,12 @@ const CKEDITOR_BASE_CONFIG_FOR_PRESETS = {
         21,
         27,
         35,
+        40,
+        50,
+        60,
+        70,
+        80,
+        90,
       ],
       supportAllValues: true
     },
